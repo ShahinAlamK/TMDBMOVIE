@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550730572173",
+    "project_id": "meecomovie",
+    "storage_bucket": "meecomovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550730572173:android:4ad43c888ca27b79665dc4",
+        "android_client_info": {
+          "package_name": "com.example.meeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550730572173-drcku29a8emtvao87024ga31ciurer18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Bf6PEah45gw72U65BioW6wPEcQhSJ7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550730572173-drcku29a8emtvao87024ga31ciurer18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
